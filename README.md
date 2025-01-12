@@ -1,2 +1,3 @@
 # Python
-Random Python projects
+
+This repo contains random python projects .
